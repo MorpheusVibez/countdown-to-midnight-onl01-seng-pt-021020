@@ -1,4 +1,5 @@
-#write your code here
+timer = 10 
 
 def countdown
+  while timer <
 end
