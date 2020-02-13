@@ -1,4 +1,4 @@
-timer = 10 
+timer = 12
 
 def countdown
   while timer <
