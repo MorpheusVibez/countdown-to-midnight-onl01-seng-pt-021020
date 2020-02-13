@@ -1,4 +1,4 @@
-timer = 0
+
 
 def countdown(timer)
   while timer < 10 do
