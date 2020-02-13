@@ -9,7 +9,7 @@ def countdown(timer)
 end
 
 def countdown_with_sleep(timer)
-  while timer > 0
+  while timer > 4
     sleep 5
       puts "Sleep"
       timer -= 1
